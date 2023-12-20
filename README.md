@@ -1,6 +1,3 @@
-# VolunteerVerse (FTL Capstone Project)
-Website link: https://volunteerverse.org/
-
 Course Year: **2025**
 
 Cohort: CodePath X Salesforce
@@ -9,7 +6,8 @@ Team Member Names:**Kelechi, Iretomiwa, Melyssa**
 
 Mentors Names: **Sridhar Srigiriraju, ADD MENTOR NAMES **
 
-# SECTION 1
+# [VolunteerVerse](https://volunteerverse.org/)
+
 Welcome to the official repository of the **Web Application Name** developed by Group Name. This project is a collaborative effort between three group members, and it aims to provide [brief description of your web application's purpose and functionality].
 
 ![Web Application Screenshot](screenshot.png) *(Optional: Add a screenshot or GIF showcasing your web application)*
@@ -19,10 +17,6 @@ Welcome to the official repository of the **Web Application Name** developed by 
 - [About the Project](#about-the-project)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
 - [Project Code Repository Links](#project-links)
 - [Acknowledgement](#acknowledgement)
 - [License](#license)
@@ -33,44 +27,32 @@ Welcome to the official repository of the **Web Application Name** developed by 
 
 ### Features
 
-- **Feature 1:** Describe feature 1 briefly.
-- **Feature 2:** Describe feature 2 briefly.
-- ...
+- Signup/Login w/ authenication/authorization
+- Volunteers can:
+    - Apply for volunteer opportunities
+    - View a feed of volunteer opportunities
+    - View list of volunteer opportunities applied for
+    
+- Organizations can:
+    - Make volunteer postings
+    - Approve/Reject volunteer applications
+    - Archive volunteer postings
+    - View contact infomration from volunteers
 
 ### Technologies Used
 
 - **Front-end:**
-  - HTML5, CSS3, JavaScript
-  - Frameworks/Libraries: [e.g., React, Angular, Vue]
-  - [Optional: Any other technologies related to the front-end]
+  - HTML5, CSS, Javascript Typescript
+  - Frameworks/Libraries: React, Typescript, Mantine UI
 
 - **Back-end:**
-  - Server-side language: [e.g., Node.js, Python, Ruby]
-  - Frameworks: [e.g., Express, Django, Flask]
-  - Database: [e.g., MySQL, PostgreSQL, MongoDB]
-  - [Optional: Any other technologies related to the back-end]
+  - Server-side language: Node.js
+  - Frameworks: Express
+  - Database: PostgreSQL
 
 - **Deployment:**
-  - [List any deployment tools or services used, e.g., Heroku, AWS, Netlify]
-
-## Getting Started
-
-### Prerequisites
-
-- [List any software or tools that need to be installed before setup, e.g., Node.js, Git]
-
-### Installation and Setup
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. [Additional steps, if any, for setting up the environment, database, etc.]
-4. Install dependencies: `npm install` or `yarn install`
-5. Start the development server: `npm start` or `yarn start`
-
-# SECTION 3
-## Usage
-
-[Provide clear instructions on how to use the web application. Include screenshots or GIFs if necessary.]
+  - Front-end: Firebase
+  - Back-end: Render
 
 ## Project Links
 
