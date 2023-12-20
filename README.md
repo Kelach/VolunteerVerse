@@ -11,7 +11,7 @@ Mentors Names: **Sridhar Srigiriraju**
 
 VolunteerVerse is a dedicated platform service designed to forge connections between students aspiring to pursue careers in the tech industry and pro-bono opportunities available online. The inspiration for creating this service stemmed from the personal challenges faced by its founders in securing job offers from tech companies. Conversations with fellow students revealed a shared struggle, where individuals like themselves lacked the requisite experience to stand out in the competitive job market.
 
-In response to this common hurdle, VolunteerVerse was conceived to offer volunteers a chance to acquire valuable experience while simultaneously making a positive impact in the world. To witness a demonstration of this innovative service, simply click on the video link provided. You can watch a video demo of this service by clicking [here](https://youtu.be/WaBFhfKTOQk?si=lgKoWisa4Gulu_pz&t=2725).
+In response to this common hurdle, VolunteerVerse was conceived to offer volunteers a chance to acquire valuable experience while simultaneously making a positive impact in the world. To witness a demonstration of this innovative service, you can watch a video demo of this service by clicking [here](https://youtu.be/WaBFhfKTOQk?si=lgKoWisa4Gulu_pz&t=2725).
 
 ## Table of Contents
 
