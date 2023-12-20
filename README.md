@@ -8,7 +8,7 @@ Mentors Names: **Sridhar Srigiriraju**
 
 # [VolunteerVerse](https://volunteerverse.org/)
 
-VolunteerVerse is a platform service with the mission of connecting students interested in pursuing careers in tech with pro-bono opportunties online. The creators wanted to build this service after reflecting on the struggles they personally had securing job offers at tech companies. After speaking with students they realized students like themselves and others facing a similar problem lacked the appropriate experience. VolunteerVerse aims to provide volunteers with the opportunity to gain experience whilst making a positive impact in the world. You can watch a video demo of this service by clicking (here)[https://youtu.be/WaBFhfKTOQk?si=lgKoWisa4Gulu_pz&t=2725].
+VolunteerVerse is a platform service with the mission of connecting students interested in pursuing careers in tech with pro-bono opportunties online. The creators wanted to build this service after reflecting on the struggles they personally had securing job offers at tech companies. After speaking with students they realized students like themselves and others facing a similar problem lacked the appropriate experience. VolunteerVerse aims to provide volunteers with the opportunity to gain experience whilst making a positive impact in the world. You can watch a video demo of this service by clicking [here](https://youtu.be/WaBFhfKTOQk?si=lgKoWisa4Gulu_pz&t=2725).
 
 ## Table of Contents
 
