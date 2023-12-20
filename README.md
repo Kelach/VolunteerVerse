@@ -62,24 +62,6 @@ In response to this common hurdle, VolunteerVerse was conceived to offer volunte
 
 ## Acknowledgement
 
-[Optional: Express gratitude to individuals, organizations, or resources that contributed to the project.]
+Special thanks to our mentors and the Salesforce x Codepath LaunchPad Program for providing this experience for us
 
-## License
-
-[Specify the license under which your project is distributed.]
-
-# EVERYONE
-## Contact
-
-For any inquiries or feedback, please contact us:
-
-- Your Name: [kelechi@utexas.edu](mailto:kelechi@utexas.edu)
-- Group Member 1: [Your Email Address](mailto:your@email.com)
-- Group Member 2: [Your Email Address](mailto:your@email.com)
-
-Connect with us on LinkedIn:
-
-- [Kelechi](https://www.linkedin.com/in/kelechi-emeruwa/)
-- [LinkedIn Profile of Group Member 1](https://www.linkedin.com/in/profile1)
-- [LinkedIn Profile of Group Member 2](https://www.linkedin.com/in/profile2)
 ---
